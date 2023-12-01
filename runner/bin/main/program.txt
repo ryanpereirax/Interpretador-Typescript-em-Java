@@ -1,0 +1,15 @@
+let nome: string;
+nome = 'Compilador de Typescript em Java';
+
+let unicapTechTestte: string = "Ryan Pereira e Matheus Gomes";
+
+print("O COMPILADOR FATAL!!!: " + nome + ", unicapTechTestte: " + unicapTechTestte);
+
+let p1: number;
+
+let p2: number = 13;
+let desconto: number = 0.5;
+
+p1 = p2 * desconto + 20;
+
+print("Compilador de Typescript em java, Ryan Pereira e Matheus Gomes TESTE: " + p1);
