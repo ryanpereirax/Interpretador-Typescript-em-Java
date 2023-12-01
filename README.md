@@ -1,5 +1,6 @@
+Desenvolvedores: Ryan Pereira Lima e Matheus Gomes
 
-Este é o repositório principal do projeto XYZ, que consiste em vários módulos interdependentes: lexer, parser, interpreter e runner. Cada módulo tem sua própria responsabilidade no contexto geral do projeto.
+Este é o repositório principal do projeto Interpretador Typescript em Java, que consiste em vários módulos interdependentes: lexer, parser, interpreter e runner. Cada módulo tem sua própria responsabilidade no contexto geral do projeto.
 
 Estrutura do Projeto
 
